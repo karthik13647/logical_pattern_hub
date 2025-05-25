@@ -1,5 +1,3 @@
-Here is the `README.md` file for your GitHub repository, focusing on patterns commonly asked in technical interviews and competitive rounds:
-
 ````markdown
 # Pattern Programming Questions for Interviews and Competitions
 
